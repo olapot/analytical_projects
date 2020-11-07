@@ -2,8 +2,8 @@
 
 Используемы инструменты: Python, pandas, matplotlib<br>
 Список проектов:
-|   |   |   |   |   |
+|№|Проект|   |   |   |
 |---|---|---|---|---|
-|   |ssssssssssssssssssssssssssssssss|   |   |   |
+|   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |

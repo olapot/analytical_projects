@@ -12,5 +12,5 @@
 Мои контакты:<br>
 Станислав Макеев<br>
 e-mail: st.mk@mail.ru<br>
-telegram: @superstaz
+telegram: @superstaz<br>
 cell: +7-(981)-724-762-8
